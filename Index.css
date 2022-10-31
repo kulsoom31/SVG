@@ -1,0 +1,8 @@
+<span id="sample"></span>
+#sample {
+    background-image: url(freesample.svg);
+    background-size: contain;
+    width: 354px;
+    height: 294px;
+    display: inline-block;
+}
